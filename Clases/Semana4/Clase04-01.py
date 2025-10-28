@@ -4,7 +4,7 @@ media_edad = 18.231234
 monto_hope = 1234567.8901
 inversion_evento = -98765.21548
 
-"""print(type(cantidad_alumnos))
+print(type(cantidad_alumnos))
 print(type(media_edad))
 
 print(type(cantidad_alumnos) is int) #no es lo mismo "int"
@@ -23,7 +23,7 @@ print(type(usuario) is str)
 
 esta_lloviendo = False
 print(type(esta_lloviendo) is not bool)
-print(type(monto_hope) is not bool)"""
+print(type(monto_hope) is not bool)
 
 nombre = "Alvin"
 apellido= "Portillo"
